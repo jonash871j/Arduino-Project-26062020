@@ -1,0 +1,13 @@
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jona871j\source\repos\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jonas\Desktop\Arduino Project 25062020\Arduino CSharp Cummnication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
